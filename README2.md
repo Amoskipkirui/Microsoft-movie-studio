@@ -167,7 +167,7 @@ ax.set_xlabel('runtime')
 ax.set_ylabel('box office in millions')
 ax.set_title('Relationship between runtime and box office(USA gross)');
 ```
-![image](runtime%26gross.png)
+![image](runtime&gross.png)
 
 * Look at the types of films and how they relate to box office of the top performing films.
 rottent_df.type.value_counts()
