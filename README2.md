@@ -76,7 +76,7 @@ ax.set_xlabel('Names of studios')
 ax.set_ylabel('Number of times the studios have been used.')
 ax.set_title('Studio counts');
 ```
-
+<img src "output.png">
 
 ### Finding the relationship between studio and the box_office( sum of domestic gross and foreign gross)
  Code on creation of a new column called box office which is the sum of domestic gross and foreign gross
