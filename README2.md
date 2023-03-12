@@ -129,7 +129,7 @@ rottent_df
 rottent_df.dropna(axis = 0, inplace=True)
 
 rottent_df.sort_values(by='box_office_(gross_usa)', ascending= False
-```)
+```
 
 ### Next, we look at the information of the dataset
 ```python
