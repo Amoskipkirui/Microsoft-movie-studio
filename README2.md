@@ -1,6 +1,6 @@
 # Phase 1 Project Description
 
-![image](dsc-phase-1-project-v2-4/Image/awesome.gif/)
+
 ## Project Overview
 
 For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
