@@ -182,6 +182,7 @@ ax.set_ylabel('Count of the type of movies')
 ax.set_title('Top films types.');
 
 ```
+![image](genre.png)
 ### Genres
 
 ### Horizontal bar graph showing the relationship between genre and the box office of a movie. Which genre is mostly used in the production of these films?
@@ -192,7 +193,7 @@ ax.set_title('How different genres perform in terms of box office')
 ax.set_ylabel('Genres')
 ax.set_xlabel('box office in millions');
 ```
-![image](genre.png)
+
 
 * We also will have to look at the rating of the top films since it will determine a lot when settling on the type of film to recommend to Microsoft.
 ```python
