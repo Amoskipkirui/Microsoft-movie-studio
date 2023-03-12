@@ -266,3 +266,4 @@ correlation. style. background_gradient (cmap = 'BrBG')
   ```python
   sns. heatmap (correlation, annot=True);
   ```
+  ![image](Heatmap.png)
