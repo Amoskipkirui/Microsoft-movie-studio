@@ -192,6 +192,7 @@ ax.set_title('How different genres perform in terms of box office')
 ax.set_ylabel('Genres')
 ax.set_xlabel('box office in millions');
 ```
+![image](genre.png)
 
 * We also will have to look at the rating of the top films since it will determine a lot when settling on the type of film to recommend to Microsoft.
 ```python
