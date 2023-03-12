@@ -76,7 +76,7 @@ ax.set_xlabel('Names of studios')
 ax.set_ylabel('Number of times the studios have been used.')
 ax.set_title('Studio counts');
 ```
-![image](HistogramStudio.png)
+<img src="C:\Users\Dorothy.Onchiri\OneDrive - Network Airline Services\Desktop\Moringa project1phase1\HistogramStudio.png" alt="Getting started" />
 
 ### Finding the relationship between studio and the box_office( sum of domestic gross and foreign gross)
  Code on creation of a new column called box office which is the sum of domestic gross and foreign gross
