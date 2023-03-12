@@ -203,7 +203,7 @@ ax.set_ylabel('rating')
 ax.set_xlabel('box office in millions')
 ax.set_title('How the rating of a film affect the box office');
 ```
-
+![image](rating%26boxoffice.png)
 
 * We then look at producers of these performing films. Who are the most sort after producers?
 rottent_df.producer.value_counts()
