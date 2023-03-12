@@ -95,7 +95,7 @@ plt.ylabel('box office in millions')
 plt.title('Relationship between Studios and total revenue from films')
 plt.show()
 ```
-
+![image](Bar2.png)
 
 ### 2. For the below dataset, we are much interested in the top performing films in terms of box office. 
 We will use a sample of 20 films in our analysis as this will give us full information on 
