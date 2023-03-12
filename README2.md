@@ -217,7 +217,7 @@ ax.set_xlabel('box office in millions')
 ax.set_ylabel('Names of the producers')
 ax.set_title('Producers relationship with box office of films');
 ```
-
+![image](Producers.png)
  ### 3. To discover the relationship between production budget and box office, we sourced for a dataset containing this information for our analysis.
 ```python
  budget_df = pd.read_csv('tn.movie_budgets.csv', index_col = 0)
